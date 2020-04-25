@@ -1,5 +1,6 @@
 import express from 'express';
 import morgan from 'morgan';
+import dotenv from 'dotenv';
 
 const app = express();
 
@@ -7,6 +8,7 @@ const app = express();
 app.use(morgan(":method :url :status :res[content-length] :response-time ms"));
 
 // Use config env
+dotenv.config();
 
 app.get('/', (req, res) => {
     res.json({
@@ -14,5 +16,5 @@ app.get('/', (req, res) => {
     })
 });
 
-
-app.listen(8000);
+// listen to .env port or 3000
+app.listen(process.env.PORT || '3000');

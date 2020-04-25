@@ -1,14 +1,11 @@
 import { Router, Request, Response } from 'express';
+import { MainController } from '../controllers';
 
 // create router
 const router = Router();
 
 // define routes
-router.get('/', (req: Request, res: Response) => {
-    res.json({
-        message: "Server Running fine!"
-    })
-});
+router.get('/', MainController.index);
 
 // export the router
 export const MainRoute = router;

@@ -26,6 +26,7 @@ module.exports = {
   rules: {
     "semi": [2, "always"],
     "indent": ["error", 4],
-    "space-before-function-paren": ["error", "never"]
+    "space-before-function-paren": ["error", "never"],
+    "no-unused-vars": ["warning", { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }]
   }
 }

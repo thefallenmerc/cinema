@@ -22,3 +22,29 @@
 ::-webkit-scrollbar-thumb:hover {
     background: #f56565;
 }
+
+/* // styles */
+
+/* video player */
+
+.video-player {
+    padding-left: 300px;
+}
+
+.video-player video {
+    max-width: 1000px;
+    margin: auto;
+    width: 100%;
+}
+
+/* sidebar */
+
+.sidebar {
+    width: 300px;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    overflow-y: auto;
+}

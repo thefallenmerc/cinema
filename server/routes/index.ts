@@ -7,7 +7,7 @@ const router = Router();
 
 // include all route files
 router.use('/api', ApiRoute);
-router.use('/', MainRoute);
+router.use('**', MainRoute);
 
 // export the router
 const Routes = router;

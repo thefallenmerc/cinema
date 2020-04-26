@@ -3,6 +3,10 @@ import morgan from 'morgan';
 import dotenv from 'dotenv';
 import Routes from './routes';
 import path from 'path';
+import { init as initializeDataset } from './core/readdir.core';
+
+// initialize the data
+initializeDataset();
 
 const app = express();
 

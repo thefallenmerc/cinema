@@ -20,7 +20,11 @@ function App() {
     return (
         <div>
             <Sidebar content={content} currentVideo={currentVideo} setCurrentVideo={setCurrentVideo} />
-            <VideoPlayer video={currentVideo} />
+            <VideoPlayer video={currentVideo} setCurrentById={upath => {
+                const [, module, video] = upath.split(':');
+                const v = content.find(m => m.uid === module)?.content.find(v => v.uid === video);
+                setCurrentVideo(v);
+            }} />
         </div>
     );
 }

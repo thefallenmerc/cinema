@@ -1,0 +1,1174 @@
+[
+  {
+    "data": {
+      "name": "Advanced JavaScript",
+      "type": "dir",
+      "uid": "78ae80cb-69b9-469f-ae93-f8249c7c7b53",
+      "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53",
+      "content": [
+        {
+          "name": "0. Introduction",
+          "type": "dir",
+          "uid": "eca1a85f-8965-465d-b193-dbca6c9c3e9b",
+          "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b",
+          "content": [
+            {
+              "name": "0. Speaker Introduction.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:f0927af6-041e-4a7c-9ae2-a35665d636bf",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\0. Speaker Introduction.mp4",
+              "size": 101324195,
+              "url": "/api/resource/f0927af6-041e-4a7c-9ae2-a35665d636bf",
+              "uid": "f0927af6-041e-4a7c-9ae2-a35665d636bf"
+            },
+            {
+              "name": "1. Speaker Introduction Part 2.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:ecb6a3d3-883b-4a13-a03a-7cd7742fae4c",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\1. Speaker Introduction Part 2.mp4",
+              "size": 36927402,
+              "url": "/api/resource/ecb6a3d3-883b-4a13-a03a-7cd7742fae4c",
+              "uid": "ecb6a3d3-883b-4a13-a03a-7cd7742fae4c"
+            },
+            {
+              "name": "2. JavaScript Resources.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:817cd9dc-4960-4142-afad-92229639f21a",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\2. JavaScript Resources.mp4",
+              "size": 22899116,
+              "url": "/api/resource/817cd9dc-4960-4142-afad-92229639f21a",
+              "uid": "817cd9dc-4960-4142-afad-92229639f21a"
+            },
+            {
+              "name": "3. ECMAScript Language Specification.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:cb1eb6f6-51c7-401d-8b70-c12b1cb63d85",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\3. ECMAScript Language Specification.mp4",
+              "size": 64184968,
+              "url": "/api/resource/cb1eb6f6-51c7-401d-8b70-c12b1cb63d85",
+              "uid": "cb1eb6f6-51c7-401d-8b70-c12b1cb63d85"
+            },
+            {
+              "name": "4. Course Plan.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:624435b7-09d5-4fae-b75d-5f55cf769c47",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\4. Course Plan.mp4",
+              "size": 45482801,
+              "url": "/api/resource/624435b7-09d5-4fae-b75d-5f55cf769c47",
+              "uid": "624435b7-09d5-4fae-b75d-5f55cf769c47"
+            }
+          ]
+        },
+        {
+          "name": "1. Scope",
+          "type": "dir",
+          "uid": "e7319887-77cd-4f59-88c4-263468565fda",
+          "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda",
+          "content": [
+            {
+              "name": "0. Scope and the JavaScript Compiler.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:42d41626-2007-46a5-a7df-11c552a55081",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\0. Scope and the JavaScript Compiler.mp4",
+              "size": 64144504,
+              "url": "/api/resource/42d41626-2007-46a5-a7df-11c552a55081",
+              "uid": "42d41626-2007-46a5-a7df-11c552a55081"
+            },
+            {
+              "name": "1. Compiling Function Scope.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:29f32732-a5d6-4836-9d5a-d7f08df96c6f",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\1. Compiling Function Scope.mp4",
+              "size": 49437402,
+              "url": "/api/resource/29f32732-a5d6-4836-9d5a-d7f08df96c6f",
+              "uid": "29f32732-a5d6-4836-9d5a-d7f08df96c6f"
+            },
+            {
+              "name": "10. Problems with the Let Keyword.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:0718ecfd-ffa3-4c7b-8693-bbd54683999e",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\10. Problems with the Let Keyword.mp4",
+              "size": 49519659,
+              "url": "/api/resource/0718ecfd-ffa3-4c7b-8693-bbd54683999e",
+              "uid": "0718ecfd-ffa3-4c7b-8693-bbd54683999e"
+            },
+            {
+              "name": "11. Dynamic Scope.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:3f65b962-593c-4845-9e77-2a8549632251",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\11. Dynamic Scope.mp4",
+              "size": 11461685,
+              "url": "/api/resource/3f65b962-593c-4845-9e77-2a8549632251",
+              "uid": "3f65b962-593c-4845-9e77-2a8549632251"
+            },
+            {
+              "name": "12. Quiz- Scope.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:7db0c824-84c4-4a54-8932-02518313e737",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\12. Quiz- Scope.mp4",
+              "size": 12368016,
+              "url": "/api/resource/7db0c824-84c4-4a54-8932-02518313e737",
+              "uid": "7db0c824-84c4-4a54-8932-02518313e737"
+            },
+            {
+              "name": "13. Hoisting.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:d6351383-b605-43d2-82ae-5575f6fca34c",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\13. Hoisting.mp4",
+              "size": 74343656,
+              "url": "/api/resource/d6351383-b605-43d2-82ae-5575f6fca34c",
+              "uid": "d6351383-b605-43d2-82ae-5575f6fca34c"
+            },
+            {
+              "name": "14. Exercise 1.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:3bffe5f8-60ea-481d-8e09-cdba5841902f",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\14. Exercise 1.mp4",
+              "size": 16618186,
+              "url": "/api/resource/3bffe5f8-60ea-481d-8e09-cdba5841902f",
+              "uid": "3bffe5f8-60ea-481d-8e09-cdba5841902f"
+            },
+            {
+              "name": "15. Exercise 1- Solution.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:3cd4f559-e12a-43fb-aac7-0ef544318aa6",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\15. Exercise 1- Solution.mp4",
+              "size": 39800795,
+              "url": "/api/resource/3cd4f559-e12a-43fb-aac7-0ef544318aa6",
+              "uid": "3cd4f559-e12a-43fb-aac7-0ef544318aa6"
+            },
+            {
+              "name": "16. this Keyword.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:dc2e3081-211b-4f76-a457-9d2b40b03aac",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\16. this Keyword.mp4",
+              "size": 69975772,
+              "url": "/api/resource/dc2e3081-211b-4f76-a457-9d2b40b03aac",
+              "uid": "dc2e3081-211b-4f76-a457-9d2b40b03aac"
+            },
+            {
+              "name": "17. Binding Confusion.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:a3a709f0-0afd-4a80-a386-4bbb50f30c8d",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\17. Binding Confusion.mp4",
+              "size": 39948369,
+              "url": "/api/resource/a3a709f0-0afd-4a80-a386-4bbb50f30c8d",
+              "uid": "a3a709f0-0afd-4a80-a386-4bbb50f30c8d"
+            },
+            {
+              "name": "18. Explicit Binding.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:2b81a2af-9935-4d04-983c-462eb4268927",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\18. Explicit Binding.mp4",
+              "size": 71705497,
+              "url": "/api/resource/2b81a2af-9935-4d04-983c-462eb4268927",
+              "uid": "2b81a2af-9935-4d04-983c-462eb4268927"
+            },
+            {
+              "name": "19. The New keyword.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:ad1df298-1455-49d4-99b4-acfe8cf6b426",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\19. The New keyword.mp4",
+              "size": 51786011,
+              "url": "/api/resource/ad1df298-1455-49d4-99b4-acfe8cf6b426",
+              "uid": "ad1df298-1455-49d4-99b4-acfe8cf6b426"
+            },
+            {
+              "name": "2. Execution of Function Code.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:fe8df7ef-06f2-4d02-8736-56f13a2ede4e",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\2. Execution of Function Code.mp4",
+              "size": 58342655,
+              "url": "/api/resource/fe8df7ef-06f2-4d02-8736-56f13a2ede4e",
+              "uid": "fe8df7ef-06f2-4d02-8736-56f13a2ede4e"
+            },
+            {
+              "name": "20. Quiz- this.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:a1e17ce8-c887-484a-95ed-bab7e06131d9",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\20. Quiz- this.mp4",
+              "size": 25317129,
+              "url": "/api/resource/a1e17ce8-c887-484a-95ed-bab7e06131d9",
+              "uid": "a1e17ce8-c887-484a-95ed-bab7e06131d9"
+            },
+            {
+              "name": "3. Scope and Execution Example.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:9998a8bf-94c8-4741-b865-be14eda4ceed",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\3. Scope and Execution Example.mp4",
+              "size": 74938617,
+              "url": "/api/resource/9998a8bf-94c8-4741-b865-be14eda4ceed",
+              "uid": "9998a8bf-94c8-4741-b865-be14eda4ceed"
+            },
+            {
+              "name": "4. Function Declarations, Function Expressions, and Block Scope.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:eca427b4-40b2-4453-b993-79a08ba79f78",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\4. Function Declarations, Function Expressions, and Block Scope.mp4",
+              "size": 56397644,
+              "url": "/api/resource/eca427b4-40b2-4453-b993-79a08ba79f78",
+              "uid": "eca427b4-40b2-4453-b993-79a08ba79f78"
+            },
+            {
+              "name": "5. Lexical Scope.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:689d0960-b102-403b-be2d-10eff47d899a",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\5. Lexical Scope.mp4",
+              "size": 33056344,
+              "url": "/api/resource/689d0960-b102-403b-be2d-10eff47d899a",
+              "uid": "689d0960-b102-403b-be2d-10eff47d899a"
+            },
+            {
+              "name": "6. Cheating Lexical Scope- eval.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:da453d47-851f-4bc9-a74e-f3fcf791f1b7",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\6. Cheating Lexical Scope- eval.mp4",
+              "size": 53818418,
+              "url": "/api/resource/da453d47-851f-4bc9-a74e-f3fcf791f1b7",
+              "uid": "da453d47-851f-4bc9-a74e-f3fcf791f1b7"
+            },
+            {
+              "name": "7. IIFE Pattern.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:842a4d78-77fc-46e7-8ba3-ed99a7f51668",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\7. IIFE Pattern.mp4",
+              "size": 54974709,
+              "url": "/api/resource/842a4d78-77fc-46e7-8ba3-ed99a7f51668",
+              "uid": "842a4d78-77fc-46e7-8ba3-ed99a7f51668"
+            },
+            {
+              "name": "8. IIFE Pattern Questions.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:4f9aae31-353f-4a96-bc3d-96146a595b31",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\8. IIFE Pattern Questions.mp4",
+              "size": 22356944,
+              "url": "/api/resource/4f9aae31-353f-4a96-bc3d-96146a595b31",
+              "uid": "4f9aae31-353f-4a96-bc3d-96146a595b31"
+            },
+            {
+              "name": "9. Block Scope in ES6.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:585e88ec-8088-4be9-b1d3-52b2bac78c84",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\9. Block Scope in ES6.mp4",
+              "size": 24591769,
+              "url": "/api/resource/585e88ec-8088-4be9-b1d3-52b2bac78c84",
+              "uid": "585e88ec-8088-4be9-b1d3-52b2bac78c84"
+            }
+          ]
+        },
+        {
+          "name": "2. Closure",
+          "type": "dir",
+          "uid": "829996f9-54a4-4873-a3a3-d6fc0e5301d6",
+          "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6",
+          "content": [
+            {
+              "name": "0. Closures.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:72dff7c0-cd48-42da-ba6c-a985589ce655",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\0. Closures.mp4",
+              "size": 44222186,
+              "url": "/api/resource/72dff7c0-cd48-42da-ba6c-a985589ce655",
+              "uid": "72dff7c0-cd48-42da-ba6c-a985589ce655"
+            },
+            {
+              "name": "1. Closure Examples.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:2a7dc65d-833b-4c4f-aa65-76fbeb209b5f",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\1. Closure Examples.mp4",
+              "size": 48269333,
+              "url": "/api/resource/2a7dc65d-833b-4c4f-aa65-76fbeb209b5f",
+              "uid": "2a7dc65d-833b-4c4f-aa65-76fbeb209b5f"
+            },
+            {
+              "name": "2. More Closure Examples.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:3df5af59-cb9b-4e22-a385-71c3c19b84b3",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\2. More Closure Examples.mp4",
+              "size": 32986578,
+              "url": "/api/resource/3df5af59-cb9b-4e22-a385-71c3c19b84b3",
+              "uid": "3df5af59-cb9b-4e22-a385-71c3c19b84b3"
+            },
+            {
+              "name": "3. Module Patterns.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:632e5e1a-fc76-4c77-a570-2ad31ee389d5",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\3. Module Patterns.mp4",
+              "size": 60473004,
+              "url": "/api/resource/632e5e1a-fc76-4c77-a570-2ad31ee389d5",
+              "uid": "632e5e1a-fc76-4c77-a570-2ad31ee389d5"
+            },
+            {
+              "name": "4. Quiz- Closure.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:5502f942-0eed-4318-ba80-6491b1de8010",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\4. Quiz- Closure.mp4",
+              "size": 27744104,
+              "url": "/api/resource/5502f942-0eed-4318-ba80-6491b1de8010",
+              "uid": "5502f942-0eed-4318-ba80-6491b1de8010"
+            },
+            {
+              "name": "5. Exercise 2.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:530e6dcc-5c35-4538-a94b-e380672745dd",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\5. Exercise 2.mp4",
+              "size": 14007722,
+              "url": "/api/resource/530e6dcc-5c35-4538-a94b-e380672745dd",
+              "uid": "530e6dcc-5c35-4538-a94b-e380672745dd"
+            },
+            {
+              "name": "6. Exercise 2 Solution.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:ebcca4a8-cc6f-459d-97bb-be37733a2242",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\6. Exercise 2 Solution.mp4",
+              "size": 53080709,
+              "url": "/api/resource/ebcca4a8-cc6f-459d-97bb-be37733a2242",
+              "uid": "ebcca4a8-cc6f-459d-97bb-be37733a2242"
+            }
+          ]
+        },
+        {
+          "name": "3. Object Orienting",
+          "type": "dir",
+          "uid": "565b77f0-b695-464c-adcd-d775507ba739",
+          "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739",
+          "content": [
+            {
+              "name": "0. Prototype.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:1c235f7b-181c-4bc5-b498-7a18dfbac0d8",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\0. Prototype.mp4",
+              "size": 35669103,
+              "url": "/api/resource/1c235f7b-181c-4bc5-b498-7a18dfbac0d8",
+              "uid": "1c235f7b-181c-4bc5-b498-7a18dfbac0d8"
+            },
+            {
+              "name": "1. Prototypes Explained, Part 1.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:e63cb520-1105-49ee-9afe-0b98e3d34035",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\1. Prototypes Explained, Part 1.mp4",
+              "size": 60256930,
+              "url": "/api/resource/e63cb520-1105-49ee-9afe-0b98e3d34035",
+              "uid": "e63cb520-1105-49ee-9afe-0b98e3d34035"
+            },
+            {
+              "name": "10. OLOO.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:9f35e83c-ffcc-4cbf-852d-a36a8dd8c6d6",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\10. OLOO.mp4",
+              "size": 36640289,
+              "url": "/api/resource/9f35e83c-ffcc-4cbf-852d-a36a8dd8c6d6",
+              "uid": "9f35e83c-ffcc-4cbf-852d-a36a8dd8c6d6"
+            },
+            {
+              "name": "11. OLOO Questions.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:674f47d1-12aa-49ae-9518-e6fa83d31aae",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\11. OLOO Questions.mp4",
+              "size": 50480170,
+              "url": "/api/resource/674f47d1-12aa-49ae-9518-e6fa83d31aae",
+              "uid": "674f47d1-12aa-49ae-9518-e6fa83d31aae"
+            },
+            {
+              "name": "12. Quiz- Prototype Unit.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:88981e1b-3d7d-44b4-a6ad-ca2ae880d4db",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\12. Quiz- Prototype Unit.mp4",
+              "size": 47847210,
+              "url": "/api/resource/88981e1b-3d7d-44b4-a6ad-ca2ae880d4db",
+              "uid": "88981e1b-3d7d-44b4-a6ad-ca2ae880d4db"
+            },
+            {
+              "name": "13. Exercise 4.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:147a21ec-00fb-4411-bfcd-c60a5779bf15",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\13. Exercise 4.mp4",
+              "size": 13941958,
+              "url": "/api/resource/147a21ec-00fb-4411-bfcd-c60a5779bf15",
+              "uid": "147a21ec-00fb-4411-bfcd-c60a5779bf15"
+            },
+            {
+              "name": "14. Exercise 4 Solution.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:5c3fa6b6-de0d-47e6-8ba7-1cc88f9c8e84",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\14. Exercise 4 Solution.mp4",
+              "size": 117467216,
+              "url": "/api/resource/5c3fa6b6-de0d-47e6-8ba7-1cc88f9c8e84",
+              "uid": "5c3fa6b6-de0d-47e6-8ba7-1cc88f9c8e84"
+            },
+            {
+              "name": "2. Prototypes Explained, Part 2.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:41ef6609-b223-4eae-95a6-cbb94a328b95",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\2. Prototypes Explained, Part 2.mp4",
+              "size": 44629506,
+              "url": "/api/resource/41ef6609-b223-4eae-95a6-cbb94a328b95",
+              "uid": "41ef6609-b223-4eae-95a6-cbb94a328b95"
+            },
+            {
+              "name": "3. Prototype Linkages.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:744e277b-6085-4571-ab4e-1e602a5942ef",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\3. Prototype Linkages.mp4",
+              "size": 53287381,
+              "url": "/api/resource/744e277b-6085-4571-ab4e-1e602a5942ef",
+              "uid": "744e277b-6085-4571-ab4e-1e602a5942ef"
+            },
+            {
+              "name": "4. Prototype- Objects Linked.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:30d912eb-233e-464c-83aa-9d188f9b6d1a",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\4. Prototype- Objects Linked.mp4",
+              "size": 36746072,
+              "url": "/api/resource/30d912eb-233e-464c-83aa-9d188f9b6d1a",
+              "uid": "30d912eb-233e-464c-83aa-9d188f9b6d1a"
+            },
+            {
+              "name": "5. Linked Prototype Diagram.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:e3d66f12-9344-4baa-bd0e-7dea7b1e32fb",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\5. Linked Prototype Diagram.mp4",
+              "size": 27841864,
+              "url": "/api/resource/e3d66f12-9344-4baa-bd0e-7dea7b1e32fb",
+              "uid": "e3d66f12-9344-4baa-bd0e-7dea7b1e32fb"
+            },
+            {
+              "name": "6. Quiz- Prototype Behavior.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:d24aca97-bfef-42d1-bf82-42c2bea1fa75",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\6. Quiz- Prototype Behavior.mp4",
+              "size": 19689170,
+              "url": "/api/resource/d24aca97-bfef-42d1-bf82-42c2bea1fa75",
+              "uid": "d24aca97-bfef-42d1-bf82-42c2bea1fa75"
+            },
+            {
+              "name": "7. Exercise 3.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:fcc02fd8-4d3b-413e-8e9b-8777d0ae338e",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\7. Exercise 3.mp4",
+              "size": 16043856,
+              "url": "/api/resource/fcc02fd8-4d3b-413e-8e9b-8777d0ae338e",
+              "uid": "fcc02fd8-4d3b-413e-8e9b-8777d0ae338e"
+            },
+            {
+              "name": "8. Exercise 3- Solution.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:0f250800-c432-4b43-8c8a-197fe98dccb6",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\8. Exercise 3- Solution.mp4",
+              "size": 38651985,
+              "url": "/api/resource/0f250800-c432-4b43-8c8a-197fe98dccb6",
+              "uid": "0f250800-c432-4b43-8c8a-197fe98dccb6"
+            },
+            {
+              "name": "9. Inheritance.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:ee7e6f5b-4285-4407-88dd-a65f76199ae1",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\9. Inheritance.mp4",
+              "size": 33783692,
+              "url": "/api/resource/ee7e6f5b-4285-4407-88dd-a65f76199ae1",
+              "uid": "ee7e6f5b-4285-4407-88dd-a65f76199ae1"
+            }
+          ]
+        },
+        {
+          "name": "4. Async Patterns",
+          "type": "dir",
+          "uid": "07eb7008-6df9-4a32-8565-40237937979b",
+          "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b",
+          "content": [
+            {
+              "name": "0. Callbacks.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:0626edc8-18ee-42b0-9953-0d4704adac15",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\0. Callbacks.mp4",
+              "size": 55430835,
+              "url": "/api/resource/0626edc8-18ee-42b0-9953-0d4704adac15",
+              "uid": "0626edc8-18ee-42b0-9953-0d4704adac15"
+            },
+            {
+              "name": "1. Solving Callback Problems.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:32a5d0b0-4b01-4d14-9544-562bba48adee",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\1. Solving Callback Problems.mp4",
+              "size": 17932652,
+              "url": "/api/resource/32a5d0b0-4b01-4d14-9544-562bba48adee",
+              "uid": "32a5d0b0-4b01-4d14-9544-562bba48adee"
+            },
+            {
+              "name": "2. Generators.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:5c16b05e-5d9b-4664-9b58-a7a05bfcda64",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\2. Generators.mp4",
+              "size": 45496684,
+              "url": "/api/resource/5c16b05e-5d9b-4664-9b58-a7a05bfcda64",
+              "uid": "5c16b05e-5d9b-4664-9b58-a7a05bfcda64"
+            },
+            {
+              "name": "3. Promises.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:fe4d2b82-4f01-42d2-9623-d8e90ee71dcc",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\3. Promises.mp4",
+              "size": 49297991,
+              "url": "/api/resource/fe4d2b82-4f01-42d2-9623-d8e90ee71dcc",
+              "uid": "fe4d2b82-4f01-42d2-9623-d8e90ee71dcc"
+            },
+            {
+              "name": "4. asynquence.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:9f2c4694-a87a-475b-93a0-404133a9559f",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\4. asynquence.mp4",
+              "size": 34881143,
+              "url": "/api/resource/9f2c4694-a87a-475b-93a0-404133a9559f",
+              "uid": "9f2c4694-a87a-475b-93a0-404133a9559f"
+            },
+            {
+              "name": "5. Quiz- Async Patterns.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:66c6fbd7-0edb-449c-8c67-4b5571560e2f",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\5. Quiz- Async Patterns.mp4",
+              "size": 17413609,
+              "url": "/api/resource/66c6fbd7-0edb-449c-8c67-4b5571560e2f",
+              "uid": "66c6fbd7-0edb-449c-8c67-4b5571560e2f"
+            },
+            {
+              "name": "6. Exercise 5.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:7cdfc3ab-c00f-4265-8aac-1898136d87a3",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\6. Exercise 5.mp4",
+              "size": 17500313,
+              "url": "/api/resource/7cdfc3ab-c00f-4265-8aac-1898136d87a3",
+              "uid": "7cdfc3ab-c00f-4265-8aac-1898136d87a3"
+            },
+            {
+              "name": "7. Exercise 5 Solution.mp4",
+              "type": "file",
+              "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:36c14092-d651-44a3-aa61-d9992b349417",
+              "ext": ".mp4",
+              "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\7. Exercise 5 Solution.mp4",
+              "size": 93645795,
+              "url": "/api/resource/36c14092-d651-44a3-aa61-d9992b349417",
+              "uid": "36c14092-d651-44a3-aa61-d9992b349417"
+            }
+          ]
+        }
+      ]
+    },
+    "resources": {
+      "f0927af6-041e-4a7c-9ae2-a35665d636bf": {
+        "name": "0. Speaker Introduction.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:f0927af6-041e-4a7c-9ae2-a35665d636bf",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\0. Speaker Introduction.mp4",
+        "size": 101324195,
+        "url": "/api/resource/f0927af6-041e-4a7c-9ae2-a35665d636bf",
+        "uid": "f0927af6-041e-4a7c-9ae2-a35665d636bf"
+      },
+      "ecb6a3d3-883b-4a13-a03a-7cd7742fae4c": {
+        "name": "1. Speaker Introduction Part 2.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:ecb6a3d3-883b-4a13-a03a-7cd7742fae4c",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\1. Speaker Introduction Part 2.mp4",
+        "size": 36927402,
+        "url": "/api/resource/ecb6a3d3-883b-4a13-a03a-7cd7742fae4c",
+        "uid": "ecb6a3d3-883b-4a13-a03a-7cd7742fae4c"
+      },
+      "817cd9dc-4960-4142-afad-92229639f21a": {
+        "name": "2. JavaScript Resources.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:817cd9dc-4960-4142-afad-92229639f21a",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\2. JavaScript Resources.mp4",
+        "size": 22899116,
+        "url": "/api/resource/817cd9dc-4960-4142-afad-92229639f21a",
+        "uid": "817cd9dc-4960-4142-afad-92229639f21a"
+      },
+      "cb1eb6f6-51c7-401d-8b70-c12b1cb63d85": {
+        "name": "3. ECMAScript Language Specification.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:cb1eb6f6-51c7-401d-8b70-c12b1cb63d85",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\3. ECMAScript Language Specification.mp4",
+        "size": 64184968,
+        "url": "/api/resource/cb1eb6f6-51c7-401d-8b70-c12b1cb63d85",
+        "uid": "cb1eb6f6-51c7-401d-8b70-c12b1cb63d85"
+      },
+      "624435b7-09d5-4fae-b75d-5f55cf769c47": {
+        "name": "4. Course Plan.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:eca1a85f-8965-465d-b193-dbca6c9c3e9b:624435b7-09d5-4fae-b75d-5f55cf769c47",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\0. Introduction\\4. Course Plan.mp4",
+        "size": 45482801,
+        "url": "/api/resource/624435b7-09d5-4fae-b75d-5f55cf769c47",
+        "uid": "624435b7-09d5-4fae-b75d-5f55cf769c47"
+      },
+      "2a7dc65d-833b-4c4f-aa65-76fbeb209b5f": {
+        "name": "1. Closure Examples.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:2a7dc65d-833b-4c4f-aa65-76fbeb209b5f",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\1. Closure Examples.mp4",
+        "size": 48269333,
+        "url": "/api/resource/2a7dc65d-833b-4c4f-aa65-76fbeb209b5f",
+        "uid": "2a7dc65d-833b-4c4f-aa65-76fbeb209b5f"
+      },
+      "72dff7c0-cd48-42da-ba6c-a985589ce655": {
+        "name": "0. Closures.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:72dff7c0-cd48-42da-ba6c-a985589ce655",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\0. Closures.mp4",
+        "size": 44222186,
+        "url": "/api/resource/72dff7c0-cd48-42da-ba6c-a985589ce655",
+        "uid": "72dff7c0-cd48-42da-ba6c-a985589ce655"
+      },
+      "632e5e1a-fc76-4c77-a570-2ad31ee389d5": {
+        "name": "3. Module Patterns.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:632e5e1a-fc76-4c77-a570-2ad31ee389d5",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\3. Module Patterns.mp4",
+        "size": 60473004,
+        "url": "/api/resource/632e5e1a-fc76-4c77-a570-2ad31ee389d5",
+        "uid": "632e5e1a-fc76-4c77-a570-2ad31ee389d5"
+      },
+      "3df5af59-cb9b-4e22-a385-71c3c19b84b3": {
+        "name": "2. More Closure Examples.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:3df5af59-cb9b-4e22-a385-71c3c19b84b3",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\2. More Closure Examples.mp4",
+        "size": 32986578,
+        "url": "/api/resource/3df5af59-cb9b-4e22-a385-71c3c19b84b3",
+        "uid": "3df5af59-cb9b-4e22-a385-71c3c19b84b3"
+      },
+      "5502f942-0eed-4318-ba80-6491b1de8010": {
+        "name": "4. Quiz- Closure.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:5502f942-0eed-4318-ba80-6491b1de8010",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\4. Quiz- Closure.mp4",
+        "size": 27744104,
+        "url": "/api/resource/5502f942-0eed-4318-ba80-6491b1de8010",
+        "uid": "5502f942-0eed-4318-ba80-6491b1de8010"
+      },
+      "530e6dcc-5c35-4538-a94b-e380672745dd": {
+        "name": "5. Exercise 2.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:530e6dcc-5c35-4538-a94b-e380672745dd",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\5. Exercise 2.mp4",
+        "size": 14007722,
+        "url": "/api/resource/530e6dcc-5c35-4538-a94b-e380672745dd",
+        "uid": "530e6dcc-5c35-4538-a94b-e380672745dd"
+      },
+      "ebcca4a8-cc6f-459d-97bb-be37733a2242": {
+        "name": "6. Exercise 2 Solution.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:829996f9-54a4-4873-a3a3-d6fc0e5301d6:ebcca4a8-cc6f-459d-97bb-be37733a2242",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\2. Closure\\6. Exercise 2 Solution.mp4",
+        "size": 53080709,
+        "url": "/api/resource/ebcca4a8-cc6f-459d-97bb-be37733a2242",
+        "uid": "ebcca4a8-cc6f-459d-97bb-be37733a2242"
+      },
+      "42d41626-2007-46a5-a7df-11c552a55081": {
+        "name": "0. Scope and the JavaScript Compiler.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:42d41626-2007-46a5-a7df-11c552a55081",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\0. Scope and the JavaScript Compiler.mp4",
+        "size": 64144504,
+        "url": "/api/resource/42d41626-2007-46a5-a7df-11c552a55081",
+        "uid": "42d41626-2007-46a5-a7df-11c552a55081"
+      },
+      "29f32732-a5d6-4836-9d5a-d7f08df96c6f": {
+        "name": "1. Compiling Function Scope.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:29f32732-a5d6-4836-9d5a-d7f08df96c6f",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\1. Compiling Function Scope.mp4",
+        "size": 49437402,
+        "url": "/api/resource/29f32732-a5d6-4836-9d5a-d7f08df96c6f",
+        "uid": "29f32732-a5d6-4836-9d5a-d7f08df96c6f"
+      },
+      "0718ecfd-ffa3-4c7b-8693-bbd54683999e": {
+        "name": "10. Problems with the Let Keyword.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:0718ecfd-ffa3-4c7b-8693-bbd54683999e",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\10. Problems with the Let Keyword.mp4",
+        "size": 49519659,
+        "url": "/api/resource/0718ecfd-ffa3-4c7b-8693-bbd54683999e",
+        "uid": "0718ecfd-ffa3-4c7b-8693-bbd54683999e"
+      },
+      "3f65b962-593c-4845-9e77-2a8549632251": {
+        "name": "11. Dynamic Scope.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:3f65b962-593c-4845-9e77-2a8549632251",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\11. Dynamic Scope.mp4",
+        "size": 11461685,
+        "url": "/api/resource/3f65b962-593c-4845-9e77-2a8549632251",
+        "uid": "3f65b962-593c-4845-9e77-2a8549632251"
+      },
+      "d6351383-b605-43d2-82ae-5575f6fca34c": {
+        "name": "13. Hoisting.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:d6351383-b605-43d2-82ae-5575f6fca34c",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\13. Hoisting.mp4",
+        "size": 74343656,
+        "url": "/api/resource/d6351383-b605-43d2-82ae-5575f6fca34c",
+        "uid": "d6351383-b605-43d2-82ae-5575f6fca34c"
+      },
+      "7db0c824-84c4-4a54-8932-02518313e737": {
+        "name": "12. Quiz- Scope.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:7db0c824-84c4-4a54-8932-02518313e737",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\12. Quiz- Scope.mp4",
+        "size": 12368016,
+        "url": "/api/resource/7db0c824-84c4-4a54-8932-02518313e737",
+        "uid": "7db0c824-84c4-4a54-8932-02518313e737"
+      },
+      "3bffe5f8-60ea-481d-8e09-cdba5841902f": {
+        "name": "14. Exercise 1.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:3bffe5f8-60ea-481d-8e09-cdba5841902f",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\14. Exercise 1.mp4",
+        "size": 16618186,
+        "url": "/api/resource/3bffe5f8-60ea-481d-8e09-cdba5841902f",
+        "uid": "3bffe5f8-60ea-481d-8e09-cdba5841902f"
+      },
+      "3cd4f559-e12a-43fb-aac7-0ef544318aa6": {
+        "name": "15. Exercise 1- Solution.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:3cd4f559-e12a-43fb-aac7-0ef544318aa6",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\15. Exercise 1- Solution.mp4",
+        "size": 39800795,
+        "url": "/api/resource/3cd4f559-e12a-43fb-aac7-0ef544318aa6",
+        "uid": "3cd4f559-e12a-43fb-aac7-0ef544318aa6"
+      },
+      "dc2e3081-211b-4f76-a457-9d2b40b03aac": {
+        "name": "16. this Keyword.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:dc2e3081-211b-4f76-a457-9d2b40b03aac",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\16. this Keyword.mp4",
+        "size": 69975772,
+        "url": "/api/resource/dc2e3081-211b-4f76-a457-9d2b40b03aac",
+        "uid": "dc2e3081-211b-4f76-a457-9d2b40b03aac"
+      },
+      "a3a709f0-0afd-4a80-a386-4bbb50f30c8d": {
+        "name": "17. Binding Confusion.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:a3a709f0-0afd-4a80-a386-4bbb50f30c8d",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\17. Binding Confusion.mp4",
+        "size": 39948369,
+        "url": "/api/resource/a3a709f0-0afd-4a80-a386-4bbb50f30c8d",
+        "uid": "a3a709f0-0afd-4a80-a386-4bbb50f30c8d"
+      },
+      "2b81a2af-9935-4d04-983c-462eb4268927": {
+        "name": "18. Explicit Binding.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:2b81a2af-9935-4d04-983c-462eb4268927",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\18. Explicit Binding.mp4",
+        "size": 71705497,
+        "url": "/api/resource/2b81a2af-9935-4d04-983c-462eb4268927",
+        "uid": "2b81a2af-9935-4d04-983c-462eb4268927"
+      },
+      "ad1df298-1455-49d4-99b4-acfe8cf6b426": {
+        "name": "19. The New keyword.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:ad1df298-1455-49d4-99b4-acfe8cf6b426",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\19. The New keyword.mp4",
+        "size": 51786011,
+        "url": "/api/resource/ad1df298-1455-49d4-99b4-acfe8cf6b426",
+        "uid": "ad1df298-1455-49d4-99b4-acfe8cf6b426"
+      },
+      "fe8df7ef-06f2-4d02-8736-56f13a2ede4e": {
+        "name": "2. Execution of Function Code.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:fe8df7ef-06f2-4d02-8736-56f13a2ede4e",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\2. Execution of Function Code.mp4",
+        "size": 58342655,
+        "url": "/api/resource/fe8df7ef-06f2-4d02-8736-56f13a2ede4e",
+        "uid": "fe8df7ef-06f2-4d02-8736-56f13a2ede4e"
+      },
+      "a1e17ce8-c887-484a-95ed-bab7e06131d9": {
+        "name": "20. Quiz- this.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:a1e17ce8-c887-484a-95ed-bab7e06131d9",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\20. Quiz- this.mp4",
+        "size": 25317129,
+        "url": "/api/resource/a1e17ce8-c887-484a-95ed-bab7e06131d9",
+        "uid": "a1e17ce8-c887-484a-95ed-bab7e06131d9"
+      },
+      "9998a8bf-94c8-4741-b865-be14eda4ceed": {
+        "name": "3. Scope and Execution Example.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:9998a8bf-94c8-4741-b865-be14eda4ceed",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\3. Scope and Execution Example.mp4",
+        "size": 74938617,
+        "url": "/api/resource/9998a8bf-94c8-4741-b865-be14eda4ceed",
+        "uid": "9998a8bf-94c8-4741-b865-be14eda4ceed"
+      },
+      "eca427b4-40b2-4453-b993-79a08ba79f78": {
+        "name": "4. Function Declarations, Function Expressions, and Block Scope.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:eca427b4-40b2-4453-b993-79a08ba79f78",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\4. Function Declarations, Function Expressions, and Block Scope.mp4",
+        "size": 56397644,
+        "url": "/api/resource/eca427b4-40b2-4453-b993-79a08ba79f78",
+        "uid": "eca427b4-40b2-4453-b993-79a08ba79f78"
+      },
+      "689d0960-b102-403b-be2d-10eff47d899a": {
+        "name": "5. Lexical Scope.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:689d0960-b102-403b-be2d-10eff47d899a",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\5. Lexical Scope.mp4",
+        "size": 33056344,
+        "url": "/api/resource/689d0960-b102-403b-be2d-10eff47d899a",
+        "uid": "689d0960-b102-403b-be2d-10eff47d899a"
+      },
+      "da453d47-851f-4bc9-a74e-f3fcf791f1b7": {
+        "name": "6. Cheating Lexical Scope- eval.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:da453d47-851f-4bc9-a74e-f3fcf791f1b7",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\6. Cheating Lexical Scope- eval.mp4",
+        "size": 53818418,
+        "url": "/api/resource/da453d47-851f-4bc9-a74e-f3fcf791f1b7",
+        "uid": "da453d47-851f-4bc9-a74e-f3fcf791f1b7"
+      },
+      "842a4d78-77fc-46e7-8ba3-ed99a7f51668": {
+        "name": "7. IIFE Pattern.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:842a4d78-77fc-46e7-8ba3-ed99a7f51668",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\7. IIFE Pattern.mp4",
+        "size": 54974709,
+        "url": "/api/resource/842a4d78-77fc-46e7-8ba3-ed99a7f51668",
+        "uid": "842a4d78-77fc-46e7-8ba3-ed99a7f51668"
+      },
+      "4f9aae31-353f-4a96-bc3d-96146a595b31": {
+        "name": "8. IIFE Pattern Questions.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:4f9aae31-353f-4a96-bc3d-96146a595b31",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\8. IIFE Pattern Questions.mp4",
+        "size": 22356944,
+        "url": "/api/resource/4f9aae31-353f-4a96-bc3d-96146a595b31",
+        "uid": "4f9aae31-353f-4a96-bc3d-96146a595b31"
+      },
+      "585e88ec-8088-4be9-b1d3-52b2bac78c84": {
+        "name": "9. Block Scope in ES6.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:e7319887-77cd-4f59-88c4-263468565fda:585e88ec-8088-4be9-b1d3-52b2bac78c84",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\1. Scope\\9. Block Scope in ES6.mp4",
+        "size": 24591769,
+        "url": "/api/resource/585e88ec-8088-4be9-b1d3-52b2bac78c84",
+        "uid": "585e88ec-8088-4be9-b1d3-52b2bac78c84"
+      },
+      "1c235f7b-181c-4bc5-b498-7a18dfbac0d8": {
+        "name": "0. Prototype.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:1c235f7b-181c-4bc5-b498-7a18dfbac0d8",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\0. Prototype.mp4",
+        "size": 35669103,
+        "url": "/api/resource/1c235f7b-181c-4bc5-b498-7a18dfbac0d8",
+        "uid": "1c235f7b-181c-4bc5-b498-7a18dfbac0d8"
+      },
+      "e63cb520-1105-49ee-9afe-0b98e3d34035": {
+        "name": "1. Prototypes Explained, Part 1.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:e63cb520-1105-49ee-9afe-0b98e3d34035",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\1. Prototypes Explained, Part 1.mp4",
+        "size": 60256930,
+        "url": "/api/resource/e63cb520-1105-49ee-9afe-0b98e3d34035",
+        "uid": "e63cb520-1105-49ee-9afe-0b98e3d34035"
+      },
+      "9f35e83c-ffcc-4cbf-852d-a36a8dd8c6d6": {
+        "name": "10. OLOO.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:9f35e83c-ffcc-4cbf-852d-a36a8dd8c6d6",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\10. OLOO.mp4",
+        "size": 36640289,
+        "url": "/api/resource/9f35e83c-ffcc-4cbf-852d-a36a8dd8c6d6",
+        "uid": "9f35e83c-ffcc-4cbf-852d-a36a8dd8c6d6"
+      },
+      "674f47d1-12aa-49ae-9518-e6fa83d31aae": {
+        "name": "11. OLOO Questions.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:674f47d1-12aa-49ae-9518-e6fa83d31aae",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\11. OLOO Questions.mp4",
+        "size": 50480170,
+        "url": "/api/resource/674f47d1-12aa-49ae-9518-e6fa83d31aae",
+        "uid": "674f47d1-12aa-49ae-9518-e6fa83d31aae"
+      },
+      "88981e1b-3d7d-44b4-a6ad-ca2ae880d4db": {
+        "name": "12. Quiz- Prototype Unit.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:88981e1b-3d7d-44b4-a6ad-ca2ae880d4db",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\12. Quiz- Prototype Unit.mp4",
+        "size": 47847210,
+        "url": "/api/resource/88981e1b-3d7d-44b4-a6ad-ca2ae880d4db",
+        "uid": "88981e1b-3d7d-44b4-a6ad-ca2ae880d4db"
+      },
+      "147a21ec-00fb-4411-bfcd-c60a5779bf15": {
+        "name": "13. Exercise 4.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:147a21ec-00fb-4411-bfcd-c60a5779bf15",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\13. Exercise 4.mp4",
+        "size": 13941958,
+        "url": "/api/resource/147a21ec-00fb-4411-bfcd-c60a5779bf15",
+        "uid": "147a21ec-00fb-4411-bfcd-c60a5779bf15"
+      },
+      "5c3fa6b6-de0d-47e6-8ba7-1cc88f9c8e84": {
+        "name": "14. Exercise 4 Solution.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:5c3fa6b6-de0d-47e6-8ba7-1cc88f9c8e84",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\14. Exercise 4 Solution.mp4",
+        "size": 117467216,
+        "url": "/api/resource/5c3fa6b6-de0d-47e6-8ba7-1cc88f9c8e84",
+        "uid": "5c3fa6b6-de0d-47e6-8ba7-1cc88f9c8e84"
+      },
+      "41ef6609-b223-4eae-95a6-cbb94a328b95": {
+        "name": "2. Prototypes Explained, Part 2.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:41ef6609-b223-4eae-95a6-cbb94a328b95",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\2. Prototypes Explained, Part 2.mp4",
+        "size": 44629506,
+        "url": "/api/resource/41ef6609-b223-4eae-95a6-cbb94a328b95",
+        "uid": "41ef6609-b223-4eae-95a6-cbb94a328b95"
+      },
+      "744e277b-6085-4571-ab4e-1e602a5942ef": {
+        "name": "3. Prototype Linkages.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:744e277b-6085-4571-ab4e-1e602a5942ef",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\3. Prototype Linkages.mp4",
+        "size": 53287381,
+        "url": "/api/resource/744e277b-6085-4571-ab4e-1e602a5942ef",
+        "uid": "744e277b-6085-4571-ab4e-1e602a5942ef"
+      },
+      "30d912eb-233e-464c-83aa-9d188f9b6d1a": {
+        "name": "4. Prototype- Objects Linked.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:30d912eb-233e-464c-83aa-9d188f9b6d1a",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\4. Prototype- Objects Linked.mp4",
+        "size": 36746072,
+        "url": "/api/resource/30d912eb-233e-464c-83aa-9d188f9b6d1a",
+        "uid": "30d912eb-233e-464c-83aa-9d188f9b6d1a"
+      },
+      "e3d66f12-9344-4baa-bd0e-7dea7b1e32fb": {
+        "name": "5. Linked Prototype Diagram.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:e3d66f12-9344-4baa-bd0e-7dea7b1e32fb",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\5. Linked Prototype Diagram.mp4",
+        "size": 27841864,
+        "url": "/api/resource/e3d66f12-9344-4baa-bd0e-7dea7b1e32fb",
+        "uid": "e3d66f12-9344-4baa-bd0e-7dea7b1e32fb"
+      },
+      "d24aca97-bfef-42d1-bf82-42c2bea1fa75": {
+        "name": "6. Quiz- Prototype Behavior.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:d24aca97-bfef-42d1-bf82-42c2bea1fa75",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\6. Quiz- Prototype Behavior.mp4",
+        "size": 19689170,
+        "url": "/api/resource/d24aca97-bfef-42d1-bf82-42c2bea1fa75",
+        "uid": "d24aca97-bfef-42d1-bf82-42c2bea1fa75"
+      },
+      "0f250800-c432-4b43-8c8a-197fe98dccb6": {
+        "name": "8. Exercise 3- Solution.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:0f250800-c432-4b43-8c8a-197fe98dccb6",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\8. Exercise 3- Solution.mp4",
+        "size": 38651985,
+        "url": "/api/resource/0f250800-c432-4b43-8c8a-197fe98dccb6",
+        "uid": "0f250800-c432-4b43-8c8a-197fe98dccb6"
+      },
+      "fcc02fd8-4d3b-413e-8e9b-8777d0ae338e": {
+        "name": "7. Exercise 3.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:fcc02fd8-4d3b-413e-8e9b-8777d0ae338e",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\7. Exercise 3.mp4",
+        "size": 16043856,
+        "url": "/api/resource/fcc02fd8-4d3b-413e-8e9b-8777d0ae338e",
+        "uid": "fcc02fd8-4d3b-413e-8e9b-8777d0ae338e"
+      },
+      "ee7e6f5b-4285-4407-88dd-a65f76199ae1": {
+        "name": "9. Inheritance.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:565b77f0-b695-464c-adcd-d775507ba739:ee7e6f5b-4285-4407-88dd-a65f76199ae1",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\3. Object Orienting\\9. Inheritance.mp4",
+        "size": 33783692,
+        "url": "/api/resource/ee7e6f5b-4285-4407-88dd-a65f76199ae1",
+        "uid": "ee7e6f5b-4285-4407-88dd-a65f76199ae1"
+      },
+      "0626edc8-18ee-42b0-9953-0d4704adac15": {
+        "name": "0. Callbacks.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:0626edc8-18ee-42b0-9953-0d4704adac15",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\0. Callbacks.mp4",
+        "size": 55430835,
+        "url": "/api/resource/0626edc8-18ee-42b0-9953-0d4704adac15",
+        "uid": "0626edc8-18ee-42b0-9953-0d4704adac15"
+      },
+      "32a5d0b0-4b01-4d14-9544-562bba48adee": {
+        "name": "1. Solving Callback Problems.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:32a5d0b0-4b01-4d14-9544-562bba48adee",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\1. Solving Callback Problems.mp4",
+        "size": 17932652,
+        "url": "/api/resource/32a5d0b0-4b01-4d14-9544-562bba48adee",
+        "uid": "32a5d0b0-4b01-4d14-9544-562bba48adee"
+      },
+      "5c16b05e-5d9b-4664-9b58-a7a05bfcda64": {
+        "name": "2. Generators.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:5c16b05e-5d9b-4664-9b58-a7a05bfcda64",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\2. Generators.mp4",
+        "size": 45496684,
+        "url": "/api/resource/5c16b05e-5d9b-4664-9b58-a7a05bfcda64",
+        "uid": "5c16b05e-5d9b-4664-9b58-a7a05bfcda64"
+      },
+      "fe4d2b82-4f01-42d2-9623-d8e90ee71dcc": {
+        "name": "3. Promises.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:fe4d2b82-4f01-42d2-9623-d8e90ee71dcc",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\3. Promises.mp4",
+        "size": 49297991,
+        "url": "/api/resource/fe4d2b82-4f01-42d2-9623-d8e90ee71dcc",
+        "uid": "fe4d2b82-4f01-42d2-9623-d8e90ee71dcc"
+      },
+      "9f2c4694-a87a-475b-93a0-404133a9559f": {
+        "name": "4. asynquence.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:9f2c4694-a87a-475b-93a0-404133a9559f",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\4. asynquence.mp4",
+        "size": 34881143,
+        "url": "/api/resource/9f2c4694-a87a-475b-93a0-404133a9559f",
+        "uid": "9f2c4694-a87a-475b-93a0-404133a9559f"
+      },
+      "66c6fbd7-0edb-449c-8c67-4b5571560e2f": {
+        "name": "5. Quiz- Async Patterns.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:66c6fbd7-0edb-449c-8c67-4b5571560e2f",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\5. Quiz- Async Patterns.mp4",
+        "size": 17413609,
+        "url": "/api/resource/66c6fbd7-0edb-449c-8c67-4b5571560e2f",
+        "uid": "66c6fbd7-0edb-449c-8c67-4b5571560e2f"
+      },
+      "7cdfc3ab-c00f-4265-8aac-1898136d87a3": {
+        "name": "6. Exercise 5.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:7cdfc3ab-c00f-4265-8aac-1898136d87a3",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\6. Exercise 5.mp4",
+        "size": 17500313,
+        "url": "/api/resource/7cdfc3ab-c00f-4265-8aac-1898136d87a3",
+        "uid": "7cdfc3ab-c00f-4265-8aac-1898136d87a3"
+      },
+      "36c14092-d651-44a3-aa61-d9992b349417": {
+        "name": "7. Exercise 5 Solution.mp4",
+        "type": "file",
+        "upath": "78ae80cb-69b9-469f-ae93-f8249c7c7b53:07eb7008-6df9-4a32-8565-40237937979b:36c14092-d651-44a3-aa61-d9992b349417",
+        "ext": ".mp4",
+        "path": "D:\\PluralSight Courses\\Advanced JavaScript\\4. Async Patterns\\7. Exercise 5 Solution.mp4",
+        "size": 93645795,
+        "url": "/api/resource/36c14092-d651-44a3-aa61-d9992b349417",
+        "uid": "36c14092-d651-44a3-aa61-d9992b349417"
+      }
+    }
+  }
+]
